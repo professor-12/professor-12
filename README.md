@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/badejoemma56434" target="blank"><img src="https://img.shields.io/twitter/follow/badejoemma56434?logo=twitter&style=for-the-badge" alt="badejoemma56434" /></a> </p>
 
-- 🔭 I’m currently working on [Chatx](https://chatx-fwdl.onrender.com)
+- 🔭 I’m currently working on [Loop](https://loop.oauife.uk/)
 
 - 👯 I’m looking to collaborate on [Bethel](https://bethe-el.vercel.app/)
 
